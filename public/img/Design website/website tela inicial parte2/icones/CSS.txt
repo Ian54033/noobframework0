@@ -1,0 +1,154 @@
+/* barra de cima */
+
+
+position: absolute;
+width: 1600px;
+height: 397px;
+left: 0px;
+top: 0px;
+
+background: url(electronics-2929043_1920.jpg);
+border-radius: 0px;
+
+
+/* Como Funciona */
+
+
+position: absolute;
+width: 337px;
+height: 56px;
+left: 48px;
+top: 56px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+
+
+
+/* botão do celular e tablet */
+
+
+position: absolute;
+width: 388px;
+height: 226px;
+left: 599px;
+top: 771px;
+
+background: url(hands-1851218_1920.jpg);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Celulares/Tablet */
+
+
+position: absolute;
+width: 266px;
+height: 42px;
+left: 660px;
+top: 860px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* botão do computador */
+
+
+position: absolute;
+width: 388px;
+height: 226px;
+left: 93px;
+top: 771px;
+
+background: url(home-office-336581_1920.jpg);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Computadores */
+
+
+position: absolute;
+width: 239px;
+height: 42px;
+left: 167px;
+top: 860px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* botão da televisão */
+
+
+position: absolute;
+width: 388px;
+height: 226px;
+left: 1118px;
+top: 771px;
+
+background: url(tv.jpg);
+border: 1px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 15px;
+
+
+/* Televisão */
+
+
+position: absolute;
+width: 155px;
+height: 42px;
+left: 1234px;
+top: 860px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Nossos serviços */
+
+
+position: absolute;
+width: 359px;
+height: 84px;
+left: 620px;
+top: 516px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;

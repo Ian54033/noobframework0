@@ -1,0 +1,355 @@
+/* barra azul na direita */
+
+
+position: absolute;
+width: 800px;
+height: 1200px;
+left: 0px;
+top: 0px;
+
+background: #3B5998;
+
+
+/* Conecte-se novamente */
+
+
+position: absolute;
+width: 375px;
+height: 42px;
+left: 212px;
+top: 492px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Faça seu Login */
+
+
+position: absolute;
+width: 243px;
+height: 42px;
+left: 283px;
+top: 630px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* Bem Vindo */
+
+
+position: absolute;
+width: 177px;
+height: 42px;
+left: 314px;
+top: 354px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+
+
+/* botão login */
+
+
+position: absolute;
+width: 242px;
+height: 66px;
+left: 280px;
+top: 780px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* Login */
+
+
+position: absolute;
+width: 90px;
+height: 42px;
+left: 359px;
+top: 792px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Crie Sua Conta */
+
+
+position: absolute;
+width: 241px;
+height: 42px;
+left: 1077px;
+top: 263px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* caixa nome */
+
+
+position: absolute;
+width: 442px;
+height: 72px;
+left: 982px;
+top: 468px;
+
+background: #8CA7C8;
+border-radius: 30px;
+
+
+/* Nome */
+
+
+position: absolute;
+width: 81px;
+height: 35px;
+left: 1024px;
+top: 490px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* caixa email */
+
+
+position: absolute;
+width: 442px;
+height: 72px;
+left: 982px;
+top: 576px;
+
+background: #8CA7C8;
+border-radius: 30px;
+
+
+/* E-mail */
+
+
+position: absolute;
+width: 83px;
+height: 35px;
+left: 1024px;
+top: 604px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* caixa senha */
+
+
+position: absolute;
+width: 442px;
+height: 72px;
+left: 982px;
+top: 684px;
+
+background: #8CA7C8;
+border-radius: 30px;
+
+
+/* Senha */
+
+
+position: absolute;
+width: 84px;
+height: 35px;
+left: 1024px;
+top: 712px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* caixa confirme sua senha */
+
+
+position: absolute;
+width: 442px;
+height: 72px;
+left: 982px;
+top: 792px;
+
+background: #8CA7C8;
+border-radius: 30px;
+
+
+/* Confirme sua senha */
+
+
+position: absolute;
+width: 267px;
+height: 35px;
+left: 1024px;
+top: 811px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* botão confirmar */
+
+
+position: absolute;
+width: 242px;
+height: 66px;
+left: 1084px;
+top: 988px;
+
+background: #3B5998;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Confirmar */
+
+
+position: absolute;
+width: 242px;
+height: 53px;
+left: 1086px;
+top: 994px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 100px;
+/* or 294% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Focus */
+
+
+position: absolute;
+width: 271px;
+height: 61px;
+left: 1119px;
+top: 108px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 100px;
+/* or 139% */
+
+
+color: #000000;
+
+
+
+/* img logo */
+
+
+position: absolute;
+left: 64.31%;
+right: 30.06%;
+top: 15.33%;
+bottom: 77.17%;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Google Plus */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1100px;
+top: 360px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));
+
+
+/* Facebook */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1191px;
+top: 361px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));
+
+
+/* Linkedin */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1282px;
+top: 360px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));

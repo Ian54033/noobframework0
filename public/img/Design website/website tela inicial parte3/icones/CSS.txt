@@ -1,0 +1,246 @@
+/* barra de cima */
+
+
+position: absolute;
+width: 1600px;
+height: 405px;
+left: 0px;
+top: 0px;
+
+background: #8CA7C8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 0px;
+
+
+/* Com a focus */
+
+
+position: absolute;
+width: 1527px;
+height: 148px;
+left: 58px;
+top: 143px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Junte-se a Nós */
+
+
+position: absolute;
+width: 246px;
+height: 42px;
+left: 58px;
+top: 61px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Resolvemos Seu Problema */
+
+
+position: absolute;
+width: 872px;
+height: 42px;
+left: 364px;
+top: 528px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* botão contrate um pro */
+
+
+position: absolute;
+width: 218px;
+height: 437px;
+left: 154px;
+top: 693px;
+
+background: #3B5998;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* botão melhores da região */
+
+
+position: absolute;
+width: 218px;
+height: 437px;
+left: 480px;
+top: 693px;
+
+background: #3B5998;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* botão sistema de pontuação */
+
+
+position: absolute;
+width: 218px;
+height: 437px;
+left: 846px;
+top: 693px;
+
+background: #3B5998;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* botão flexibilidade */
+
+
+position: absolute;
+width: 218px;
+height: 437px;
+left: 1228px;
+top: 693px;
+
+background: #3B5998;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Contrate um profissional */
+
+
+position: absolute;
+width: 132px;
+height: 56px;
+left: 197px;
+top: 713px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Melhores da Região */
+
+
+position: absolute;
+width: 138px;
+height: 56px;
+left: 520px;
+top: 719px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Sistema de Potuação */
+
+
+position: absolute;
+width: 126px;
+height: 56px;
+left: 892px;
+top: 719px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Flexibilidade */
+
+
+position: absolute;
+width: 134px;
+height: 28px;
+left: 1270px;
+top: 719px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* botão trabalhe */
+
+
+position: absolute;
+width: 210px;
+height: 68px;
+left: 1326px;
+top: 309px;
+
+background: #3B5998;
+border-radius: 15px;
+
+
+/* Trabalhe */
+
+
+position: absolute;
+width: 141px;
+height: 42px;
+left: 1360px;
+top: 322px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;

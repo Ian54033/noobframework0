@@ -1,0 +1,212 @@
+/* fundo azul escuro */
+
+
+position: absolute;
+width: 1600px;
+height: 1200px;
+left: 0px;
+top: 0px;
+
+background: #282F62;
+
+
+/* Quer Saber Nossas Promoções */
+
+
+position: absolute;
+width: 733px;
+height: 42px;
+left: 433px;
+top: 135px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Digite seu E-mail */
+
+
+position: absolute;
+width: 275px;
+height: 42px;
+left: 662px;
+top: 295px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* caixa digitar email */
+
+
+position: absolute;
+width: 630px;
+height: 56px;
+left: 485px;
+top: 382px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+
+/* botão salvar */
+
+
+position: absolute;
+width: 153px;
+height: 56px;
+left: 723px;
+top: 483px;
+
+background: #3B5998;
+border-radius: 30px;
+
+
+/* Salvar */
+
+
+position: absolute;
+width: 102px;
+height: 42px;
+left: 749px;
+top: 490px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Navegue Focus Promoções */
+
+
+position: absolute;
+width: 278px;
+height: 294px;
+left: 147px;
+top: 743px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Focus Quem somos */
+
+
+position: absolute;
+width: 268px;
+height: 294px;
+left: 666px;
+top: 734px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Dúvidas Central de contato */
+
+
+position: absolute;
+width: 450px;
+height: 294px;
+left: 1076px;
+top: 734px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Copyright @2021 */
+
+
+position: absolute;
+width: 751px;
+height: 42px;
+left: 49px;
+top: 1123px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Google Plus */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1329px;
+top: 1121px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));
+
+
+/* Facebook */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1420px;
+top: 1122px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));
+
+
+/* Linkedin */
+
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 1511px;
+top: 1121px;
+
+filter: drop-shadow(0px 12px 24px rgba(0, 0, 0, 0.1));

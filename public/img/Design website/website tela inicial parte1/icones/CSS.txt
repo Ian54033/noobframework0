@@ -1,0 +1,378 @@
+/* barra de cima do site */
+
+
+position: absolute;
+width: 1600px;
+height: 223px;
+left: 0px;
+top: 0px;
+
+background: #8CA7C8;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 0px 0px 34px 34px;
+
+
+/* botão Buscar */
+
+
+position: absolute;
+width: 224px;
+height: 76px;
+left: 1347px;
+top: 33px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Sobre Nós */
+
+
+position: absolute;
+width: 130px;
+height: 22px;
+left: 726px;
+top: 60px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #282F62;
+
+
+
+/* Ajuda */
+
+
+position: absolute;
+width: 84px;
+height: 32px;
+left: 905px;
+top: 60px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #282F62;
+
+
+
+/* Social */
+
+
+position: absolute;
+width: 84px;
+height: 32px;
+left: 1214px;
+top: 60px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #282F62;
+
+
+
+/* Serviços */
+
+
+position: absolute;
+width: 102px;
+height: 22px;
+left: 559px;
+top: 60px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #282F62;
+
+
+
+/* Cadastro parte de cima */
+
+
+position: absolute;
+width: 102px;
+height: 22px;
+left: 1054px;
+top: 60px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+
+color: #282F62;
+
+
+
+/* Buscar */
+
+
+position: absolute;
+width: 115px;
+height: 33px;
+left: 1401px;
+top: 49px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #282F62;
+
+
+
+/* Boas Vindas */
+
+
+position: absolute;
+width: 202px;
+height: 42px;
+left: 121px;
+top: 289px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* Comece onde esta */
+
+
+position: absolute;
+width: 774px;
+height: 33px;
+left: 131px;
+top: 362px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Sobre a Focus */
+
+
+position: absolute;
+width: 230px;
+height: 42px;
+left: 685px;
+top: 541px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+
+
+/* O problema é tecnico? */
+
+
+position: absolute;
+width: 757px;
+height: 33px;
+left: 424px;
+top: 583px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 33px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* botão contratar */
+
+
+position: absolute;
+width: 221px;
+height: 68px;
+left: 186px;
+top: 922px;
+
+background: #3B5998;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* botão trabalhe */
+
+
+position: absolute;
+width: 221px;
+height: 68px;
+left: 673px;
+top: 922px;
+
+background: #3B5998;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* botão cadastro */
+
+
+position: absolute;
+width: 221px;
+height: 68px;
+left: 1204px;
+top: 922px;
+
+background: #3B5998;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+
+/* Contratar */
+
+
+position: absolute;
+width: 161px;
+height: 42px;
+left: 216px;
+top: 935px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Trabalhe */
+
+
+position: absolute;
+width: 144px;
+height: 42px;
+left: 712px;
+top: 935px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Cadastro */
+
+
+position: absolute;
+width: 150px;
+height: 42px;
+left: 1240px;
+top: 935px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Somos uma Plataforma */
+
+
+position: absolute;
+width: 1300px;
+height: 109px;
+left: 178px;
+top: 683px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+
+/* Focus logo */
+
+
+position: absolute;
+width: 215px;
+height: 61px;
+left: 124px;
+top: 51px;
+
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 72px;
+line-height: 100px;
+/* or 139% */
+
+
+color: #000000;
+
+
+
+/* img logo */
+
+
+position: absolute;
+left: 2.62%;
+right: 91.75%;
+top: 9.67%;
+bottom: 82.83%;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+transform: matrix(1, 0, 0, -1, 0, 0);
+

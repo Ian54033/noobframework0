@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+</head>
+
+<body>
+  <div class="container">
+    <section class="Login">
+      <h1>Bem vindo</h1>
+      <p>Conecte-se novamente</p>
+      <p>Faça seu Login</p>
+      <a href="login.html">Login</a>
+    </section>
+
+    <section class="Cadastro">
+      <h1>Crie Sua Conta</h1>
+      <form action="http://localhost:8080/user/perfil" method="POST">
+        <div>
+          <input type="text" class="form-control name-mask" name="nome" placeholder="Nome" required>
+        </div>
+
+        <div>
+          <input type="email" class="form-control email-mask" name="email" placeholder="E-mail" required>
+        </div>
+
+        <div>
+          <input type="password" class="form-control passoword-mask" name="senha" placeholder="Senha">
+        </div>
+
+        <div>
+          <input type="password" class="form-control Confirm-passoword-mask" name="confirma-senha" placeholder="Confirme sua senha">
+        </div>
+        
+        <br>
+
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </div>  
+</body>
+
+</html>
